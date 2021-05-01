@@ -5,7 +5,7 @@ permalink: /search/
 ---
 
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Search through the blog posts...">
+    <input type="text" id="search-input" placeholder="Search through the stuff i made">
     <ul id="results-container"></ul>
 </div>
 
@@ -19,3 +19,5 @@ permalink: /search/
     json: '{{ site.baseurl }}/search.json'
     });
 </script>
+
+## [Alternativley View the Archive Here]({{ site.baseurl }}/archive)

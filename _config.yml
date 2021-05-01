@@ -9,7 +9,7 @@ name: Ninja202
 author: Jackson
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Another person on the internet
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/attacked.png
@@ -28,7 +28,7 @@ footer-links:
   instagram:
   linkedin: 
   pinterest:
-  rss: rss
+#  rss: rss
   twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
