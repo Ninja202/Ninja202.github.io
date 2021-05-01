@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ninja202.github.io
+Token: ec5b43189efecd46435be0b5887d0d4a0cfb7b61979ede334476508dc1454ef3
