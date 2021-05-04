@@ -4,7 +4,7 @@ title: Mods
 permalink: /mods/
 ---
 
-I do stuff.
+## About
+I am learning how to mod so my mods arent great but whatever. All mods are writen for Fabric, 
 
-##Things i do:
-* [Minecraft Modding]({{ site.baseurl }}/mods)
+### Ninja

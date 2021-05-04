@@ -5,13 +5,12 @@ permalink: /todo/
 ---
 
 ## Pages TODO:
-* About
 * Photos
 * Mods
 * Posts
 
 ## Misc TODO:
-* Top ribon
+* 
 
 ### Extra TODO:
 * Make 404 image fill screen
@@ -19,6 +18,7 @@ permalink: /todo/
 ## Done(tm):
 * 404
 * Archive
+* About
 
 ## Done:
 * Search
